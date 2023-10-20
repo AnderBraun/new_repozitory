@@ -1,4 +1,4 @@
-def func():
+def new_func():
     use = input()
-    print(use.title())
-func()
+    print(use.upper())
+new_func()
